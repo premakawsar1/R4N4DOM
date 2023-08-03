@@ -1,4 +1,4 @@
-# ohid.py# Encrypt by Dark Alhaj
+#Encrypt by ohid vai
 # Facebook Group : FB-CRACK_Termux All Free Command
 # Github : https://github.com/DARK-ALHAJ-404# Encrypt by Dark Alhaj
 # Facebook Group : FB-CRACK_Termux All Free Command
